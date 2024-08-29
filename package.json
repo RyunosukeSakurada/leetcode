@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon --exec ts-node utils/containsDuplicate.ts"
+    "start": "nodemon --exec ts-node utils/validAnagram.ts"
   },
   "keywords": [],
   "author": "",
